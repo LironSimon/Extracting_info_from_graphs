@@ -9,6 +9,7 @@ During operation the user will be asked to fill:
  - A known value on Y axis, to establish axis scale
 
 After that, the user will be asked to select the desired points on the graph imapge.
+
 Selecting / deselecting process will be done by:
 - Right-clicking or pressing 's' to select
 - Left-clicking or pressing 'del' to deselect
